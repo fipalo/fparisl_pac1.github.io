@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fipalo/pac1_fiona.github.io.git"
+    "url": "https://github.com/fipalo/fparisl_pac1.github.io"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fipalo/pac1_fiona.github.io.git"
+    "url": "https://github.com/fipalo/fparisl_pac1.github.io.git"
   },
-  "homepage": "https://github.com/fipalo/pac1_fiona.github.io.git"
+  "homepage": "https://github.com/fipalo/fparisl_pac1.github.io.git"
   
 }
